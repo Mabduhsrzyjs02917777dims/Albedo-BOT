@@ -50,27 +50,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
 global.sig = 'https://instagram.com/inizenscuy' // ig
-global.sgh = 'https://github.com/RaaaGH/' // github
-global.sgc = 'https://chat.whatsapp.com/' // group whatsapp
+global.sgh = 'https://github.com/Mabduhsrzyjs02917777dims/nadia/' // github
+global.sgc = 'https://chat.whatsapp.com/L2E56bJbIHcK0UqzRAiK3S' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://nhentai.net/g/767842' //Hmmm, Ini boleh kalian isi terserah :v
 global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://youtube.com/channel/UCTVeRHM0v0Hqv_-O8yVkFpw' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.syt = 'https://youtu.be/DDQvOIz6qdU' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '62895604670507' //dana
-global.povo = '62895604670507' //ovo
-global.pgopay = '62895604670507' //gopay
-global.plinkaja = '62895604670507' //link aja
-global.ppulsa = '62895604670507' //telkomsel
-global.ppulsa2 = '62895604670507' // kalau ada kartu lain isi aja
+global.pdana = '6283866276094' //dana
+global.povo = '6283866276094' //ovo
+global.pgopay = '6283819140194' //gopay
+global.plinkaja = '6283866276094' //link aja
+global.ppulsa = '6283866276094' //telkomsel
+global.ppulsa2 = '6283866276094' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '62895604670507'
-global.namebot = 'AlbedoBotz'
-global.nameown = 'Zenss'
+global.nomorown = '6283866276094'
+global.namebot = 'Nadia'
+global.nameown = '𝔇𝔦𝔪𝔞𝔰'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'RaaaGH' // nama github lu
